@@ -18,7 +18,7 @@ header{
 background-color:#EBE4DC;
 font-size:35px;
 color: #065F55;
-padding:20px;
+margin-top: 50px;
 font-weight: bold;
 margin-bottom:10px;
 text-align: center;
@@ -29,7 +29,7 @@ font-family: 'Roboto', sans-serif;
   font-family: 'Bebas Neue', cursive;
   font-size: 30px;
   margin-top: 50px !important;
-  margin-bottom: 40px !important;
+  margin-bottom: 45px !important;
   color: #343637;
   max-width: 300px;
   margin:0 auto;
